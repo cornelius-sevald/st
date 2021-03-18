@@ -1,5 +1,5 @@
 # st version
-VERSION = 0.8.4c0.1
+VERSION = 0.8.4c0.2
 
 # Customize below to fit your system
 
